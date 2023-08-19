@@ -14,13 +14,13 @@ Follow these steps to use the script:
 
 * Clone this repository to your local machine using the command:
 
-`git clone https://github.com/RanaShankani/Extract and Delete Nested Folders.git ↗`
+`git clone https://github.com/RanaShankani/extract_and_delete_folders.git ↗`
 
 ### 3. Navigate to the repository:
 
 * Open a terminal or command prompt and navigate to the cloned repository directory:
 
-`cd repository-name`
+`cd extract_and_delete_folders`
 
 ### 4. Open the script:
 
