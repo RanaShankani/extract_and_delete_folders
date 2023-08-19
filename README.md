@@ -51,7 +51,7 @@ Save the changes you made to the script file.
 
 ## License
 
-Extract and Delete Nested Folders is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+extract_and_delete_folders is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
