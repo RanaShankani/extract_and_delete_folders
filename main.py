@@ -13,7 +13,7 @@ def extract_and_delete_folders(root_folder):
             shutil.rmtree(folder_path)
 
 # Specify the root folder containing the nested folders
-root_folder = "F:\Python\Arrythmia Prediction\ptbdb - Copy (3)"
+root_folder = "your_root_folder"
 
 # Call the function to extract and delete folders
 extract_and_delete_folders(root_folder)
